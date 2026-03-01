@@ -86,23 +86,8 @@ Example:
 
 predict_sentiment("I hate this post")
 Output → NEGATIVE TWEET
-📁 Folder Structure
-Social-Media-Sentiment-Analyzer/
-│
-├── dataset/
-│   └── training.1600000.processed.noemoticon.csv
-│
-├── notebook/
-│   └── sentiment_analysis.ipynb
-│
-├── model/
-│   └── sentiment_model.pkl
-│
-├── src/
-│   └── prediction.py
-│
-├── requirements.txt
-└── README.md
+
+
 ▶️ How to Run the Project
 Step 1: Clone Repository
 git clone https://github.com/madhurima7284/Social-Media-Sentiment-Analyzer.git
@@ -110,6 +95,8 @@ Step 2: Install Dependencies
 pip install -r requirements.txt
 Step 3: Run Prediction
 python prediction.py
+
+
 ✅ Results
 
 The trained model successfully classifies tweets into:

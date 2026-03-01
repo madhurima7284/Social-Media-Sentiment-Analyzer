@@ -104,6 +104,8 @@ The trained model successfully classifies tweets into:
 Positive Sentiment
 
 Negative Sentiment
+<img width="1920" height="1020" alt="Screenshot 2026-03-01 202544" src="https://github.com/user-attachments/assets/5a0894e0-92ab-40c4-8348-faa2909f2c60" />
+
 
 🔮 Future Improvements
 
